@@ -64,7 +64,7 @@ function setup() {
 function draw() {  
   
   background(46, 139, 87);
-  foodObj.display();
+  //foodObj.display();
 
   
   if(gameState!= "Hungry"){
